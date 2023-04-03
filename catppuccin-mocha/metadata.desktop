@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Catppuccin Macchiato
+Sddm catpuccin theme
+Type=sddm-theme
+Version=1.0
+Website=https://github.com/LucasCalcada/catpuccin-sddm-theme
+Screenshot=ultimate.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=Catppuccin
+Theme-API=2.0
