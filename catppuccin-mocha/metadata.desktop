@@ -1,9 +1,9 @@
 [SddmGreeterTheme]
 Name=Catppuccin Mocha
-Sddm catpuccin theme
+Sddm catppuccin theme
 Type=sddm-theme
 Version=1.0
-Website=https://github.com/LucasCalcada/catpuccin-sddm-theme
+Website=https://github.com/LucasCalcada/catppuccin-sddm-theme
 Screenshot=ultimate.png
 MainScript=Main.qml
 ConfigFile=theme.conf
