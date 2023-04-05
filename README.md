@@ -1,4 +1,4 @@
-# catpuccin-sddm-theme
+# Catppuccin SDDM Theme
 A sddm theme based on the ![official catppuccin sddm theme](https://github.com/catppuccin/sddm).
 ![Thumbnail](assets/example.png)
 # Previews
