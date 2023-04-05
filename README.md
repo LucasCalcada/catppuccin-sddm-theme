@@ -1,5 +1,5 @@
 # catpuccin-sddm-theme
-A sddm theme based on the ![official catpuccin sddm theme](https://github.com/catppuccin/sddm).
+A sddm theme based on the ![official catppuccin sddm theme](https://github.com/catppuccin/sddm).
 ![Thumbnail](assets/example.png)
 # Previews
 <details>
@@ -22,9 +22,9 @@ A sddm theme based on the ![official catpuccin sddm theme](https://github.com/ca
 # Installation
 don't forget to replace ```<palette>``` with the desired theme palette
 ```
-git clone https://github.com/LucasCalcada/catpuccin-sddm-theme
-cd catpuccin-sddm-theme
-cp catpuccin-<palette> /usr/share/sddm/themes
+git clone https://github.com/LucasCalcada/catppuccin-sddm-theme
+cd catppuccin-sddm-theme
+cp catppuccin-<palette> /usr/share/sddm/themes
 ```
 
 after that edit the config file at```/etc/sddm.conf``` with the desired palette
